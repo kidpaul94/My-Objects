@@ -62,7 +62,7 @@ def sequential_visualizer(path_dataset: str, obj: str) -> None:
 
             res = np.eye(4)
             res[:3,:3] = R.T
-            res[:3,3] = -R.T @ temp_center * 0.001
+            res[:3,3] = -R.T @ temp_center
 
             configuration.transform(res)
             o3d.visualization.draw_geometries([configuration, gripper, frame])
