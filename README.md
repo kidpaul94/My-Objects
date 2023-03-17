@@ -1,6 +1,6 @@
 # My-Objects
 
-Collection of Objects from ITODD, T-LESS, Siléane, and others 
+Collection of Scaled Objects from ITODD, T-LESS, Siléane, and others 
 
 ## Visualization:
 
