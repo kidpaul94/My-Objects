@@ -2,6 +2,10 @@
 
 Collection of Scaled Objects from ITODD, T-LESS, Siléane, and others 
 
+<p align="center">
+<img src=./images/visualization.png>
+</p>
+
 ## Visualization:
 
 > **Note**
