@@ -1,6 +1,6 @@
 # My-Objects
 
-Collection of Scaled Objects from ITODD, T-LESS, Siléane, and others 
+Collection of Scaled Objects from ABC, ITODD, Siléane, T-LESS, and others 
 
 <p align="center">
 <img src=./images/visualization.png>
@@ -15,6 +15,16 @@ Collection of Scaled Objects from ITODD, T-LESS, Siléane, and others
     
 ## Citation:
 
+### ABC
+
+    @InProceedings{Koch_2019_CVPR,
+    author = {Koch, Sebastian and Matveev, Albert and Jiang, Zhongshi and Williams, Francis and Artemov, Alexey and Burnaev, Evgeny and Alexa, Marc and Zorin, Denis and Panozzo, Daniele},
+    title = {ABC: A Big CAD Model Dataset For Geometric Deep Learning},
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2019}
+    }
+
 ### ITODD
 
     @INPROCEEDINGS{8265467,
@@ -27,15 +37,6 @@ Collection of Scaled Objects from ITODD, T-LESS, Siléane, and others
       pages={2200-2208},
       doi={10.1109/ICCVW.2017.257}}
 
-### T-LESS
-
-    @article{hodan2017tless,
-      title={{T-LESS}: An {RGB-D} Dataset for {6D} Pose Estimation of Texture-less Objects},
-      author={Hoda{\v{n}}, Tom{\'a}{\v{s}} and Haluza, Pavel and Obdr{\v{z}}{\'a}lek, {\v{S}}t{\v{e}}p{\'a}n and Matas, Ji{\v{r}}{\'\i} and Lourakis, Manolis and Zabulis, Xenophon},
-      journal={IEEE Winter Conference on Applications of Computer Vision (WACV)},
-      year={2017}
-    }
-
 ### Siléane
 
     @InProceedings{bregier2017iccv,
@@ -44,4 +45,13 @@ Collection of Scaled Objects from ITODD, T-LESS, Siléane, and others
     booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
     month = {Oct},
     year = {2017}
+    }
+
+### T-LESS
+
+    @article{hodan2017tless,
+      title={{T-LESS}: An {RGB-D} Dataset for {6D} Pose Estimation of Texture-less Objects},
+      author={Hoda{\v{n}}, Tom{\'a}{\v{s}} and Haluza, Pavel and Obdr{\v{z}}{\'a}lek, {\v{S}}t{\v{e}}p{\'a}n and Matas, Ji{\v{r}}{\'\i} and Lourakis, Manolis and Zabulis, Xenophon},
+      journal={IEEE Winter Conference on Applications of Computer Vision (WACV)},
+      year={2017}
     }
