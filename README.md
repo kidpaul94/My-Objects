@@ -1,6 +1,6 @@
 # My-Objects
 
-Collection of Scaled Objects from ABC, ITODD, Siléane, T-LESS, and others 
+Collection of Scaled Objects from ABC, ITODD, Siléane, T-LESS, and others for grasping
 
 <p align="center">
 <img src=./images/visualization.png>
